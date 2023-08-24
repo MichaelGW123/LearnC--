@@ -8,8 +8,7 @@ Welcome to the **Beginning C++ 17** repository! This repository is dedicated to 
 2. [Getting Started](#getting-started)
 3. [Notes](#notes)
 4. [Exercises](#exercises)
-5. [Contributing](#contributing)
-6. [License](#license)
+5. [License](#license)
 
 ## Introduction
 
