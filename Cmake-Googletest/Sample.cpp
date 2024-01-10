@@ -1,10 +1,12 @@
 #include "Sample.h"
 
-Sample::Sample(): n{0} {}
+Sample::Sample() : n{0} {}
 Sample::~Sample() = default;
-void Sample::SetN(int set) {
+void Sample::SetN(int set)
+{
     n = set;
 }
-int Sample::GetN() {
+int Sample::GetN()
+{
     return n;
 }
